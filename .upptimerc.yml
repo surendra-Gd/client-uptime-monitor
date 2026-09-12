@@ -1,31 +1,21 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Ishaan Vastraa API
+    url: https://pibuydangxcjtfyrxowh.supabase.co/auth/v1/health
+    method: GET
+    headers:
+      - "apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBpYnV5ZGFuZ3hjanRmeXJ4b3doIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY4NjI1MDgsImV4cCI6MjA5MjQzODUwOH0.gONAavkf28tM2VGHnmIoaOFPtuxY9Wk7vIjNerHPXYc"
 
-status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  - name: Prathva API
+    url: https://stegucpumzijbuacqfbf.supabase.co/auth/v1/health
+    method: GET
+    headers:
+      - "apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InN0ZWd1Y3B1bXppamJ1YWNxZmJmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzk3MjU3NzYsImV4cCI6MjA5NTMwMTc3Nn0.1X03QO0UWAGWqdbHzhNQayNTqKms9fp6AAmeFbVEejw"
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+  - name: Deepika Trends API
+    url: https://fgudetmtfxltohoqqxtg.supabase.co/auth/v1/health
+    method: GET
+    headers:
+      - "apikey: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZndWRldG10ZnhsdG9ob3FxeHRnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYzNzU2MTAsImV4cCI6MjEwMTk1MTYxMH0.qtMAvtSZ6uN_N7j0Ik6yahJylBcYSSxpxATLbYF54Nw"
+
+owner: surendra-Gd
+repo: client-uptime-monitor
