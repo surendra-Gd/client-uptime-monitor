@@ -4,18 +4,20 @@
     "url": "https://pibuydangxcjtfyrxowh.supabase.co/auth/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/pibuydangxcjtfyrxowh.supabase.co.ico",
     "slug": "ishaan-vastraa-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 376,
-    "timeWeek": 467,
-    "timeMonth": 677,
-    "timeYear": 677,
-    "dailyMinutesDown": {}
+    "time": 749,
+    "timeDay": 1247,
+    "timeWeek": 674,
+    "timeMonth": 749,
+    "timeYear": 749,
+    "dailyMinutesDown": {
+      "2026-09-29": 0
+    }
   },
   {
     "name": "Prathva API",
